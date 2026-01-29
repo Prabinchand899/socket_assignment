@@ -1,3 +1,3 @@
-default credentials:\n
-username: user123\n
-password: pass123\n
+default credentials:
+username: user123
+password: pass123
